@@ -3,7 +3,7 @@
 # download and save pip into python27 folder from:
 #      https://raw.github.com/pypa/pip/master/contrib/get-pip.py
 # install pip by running: python get-pip.py
-# install tweepy by running: Sripts\pip install tweepy
+# install tweepy by running: Scripts\pip install tweepy
 
 import tweepy
 
