@@ -1,3 +1,5 @@
+# this code programmatically tweets from python
+#
 # requires tweepy to be installed via pip
 # navigate to python27 folder
 # download and save pip into python27 folder from:
